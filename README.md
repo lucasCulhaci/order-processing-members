@@ -25,7 +25,9 @@ status Silver daarentegen sponsoren de organisatie door telkens het dubbele van 
 Als belonging worden ze wel uitgenodigd voor het voorafgaande diner. De Gold-leden betalen 3 maal 
 de prijs van een ticket, maar worden eveneens uitgenodigd voor het diner en kunnen bovendien ook 
 nog rekenen op een afhaalservice die de leden naar het event brengen. 
-Technische requirements
+
+
+## Technische requirements
 
 We werken in een gelaagde architectuur waarbij de business-laag centraal staat. Voor het beheren van 
 de gegevens moet het mogelijk zijn om te kiezen tussen verschillende opslagmogelijkheden.  Om te 
