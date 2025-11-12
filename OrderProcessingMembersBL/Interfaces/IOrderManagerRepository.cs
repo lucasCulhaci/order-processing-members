@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OrderProcessingMembersBL.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace OrderProcessingMembersBL.Interfaces
 {
-    public interface IWelkomstpakket
+    public interface IOrderManagerRepository
     {
-        string Welkomstpakket();
+        public List<Member> GeefLeden();
     }
 }

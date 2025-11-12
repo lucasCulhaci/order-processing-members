@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
         "packagesPath": "C:\\Users\\cameu\\.nuget\\packages\\",
         "outputPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMemberDL_File\\obj\\",
+=======
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
+        "projectName": "OrderProcessingMemberDL_File",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\obj\\",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\cameu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +50,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
                 "projectPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+=======
+              "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+                "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
               }
             }
           }
@@ -73,6 +96,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -81,12 +105,26 @@
         "projectPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
         "packagesPath": "C:\\Users\\cameu\\.nuget\\packages\\",
         "outputPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\obj\\",
+=======
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+        "projectName": "OrderProcessingMembersBL",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\obj\\",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\cameu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -138,6 +176,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -146,12 +185,26 @@
         "projectPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
         "packagesPath": "C:\\Users\\cameu\\.nuget\\packages\\",
         "outputPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersUtils\\obj\\",
+=======
+    "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
+        "projectName": "OrderProcessingMembersUtils",
+        "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\OrderProcessingMembersUtils.csproj",
+        "packagesPath": "C:\\Users\\Kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersUtils\\obj\\",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\cameu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,11 +219,19 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
                 "projectPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj"
               },
               "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
                 "projectPath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+=======
+              "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj": {
+                "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMemberDL_File\\OrderProcessingMemberDL_File.csproj"
+              },
+              "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj": {
+                "projectPath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj"
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
               }
             }
           }

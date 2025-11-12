@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderProcessingMemberDL_File")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f927dc27aa3441ab03bde2fda4498138fa6e505")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb72da3829437c53be21bb2bcae7277ef7d897a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderProcessingMemberDL_File")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderProcessingMemberDL_File")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

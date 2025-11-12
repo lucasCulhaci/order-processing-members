@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OrderProcessingMembersBL.Models
+namespace OrderProcessingMembersBL.Interfaces
 {
+<<<<<<< HEAD:OrderProcessingMembersBL/Models/Event.cs
     public class Event
     {
 
@@ -22,5 +23,10 @@ namespace OrderProcessingMembersBL.Models
             TicketPriceEur = ticketPriceEur;
         }
 
+=======
+    public interface IDinner
+    {
+        string Avondmaal();
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d:OrderProcessingMembersBL/Interfaces/IDinner.cs
     }
 }

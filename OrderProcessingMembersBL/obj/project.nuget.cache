@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "jp2yeSDrRpQ=",
   "success": true,
   "projectFilePath": "D:\\HoGent\\C#\\Gevorderd\\source\\Groep\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+=======
+  "dgSpecHash": "DqFVL/jWRS8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kelly\\OPDRACHTEN_progGev\\order-processing-members\\OrderProcessingMembersBL\\OrderProcessingMembersBL.csproj",
+>>>>>>> c72e159f33774426b8aac4226db2c474323a102d
   "expectedPackageFiles": [],
   "logs": []
 }
